@@ -1,2 +1,2 @@
 # IG-Cum-
-Buat untuk hekur ig
+alat ini digunakan untuk melakukan dump id ig lalu menggerakkan teknik brute force
